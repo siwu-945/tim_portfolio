@@ -2,8 +2,8 @@ import React from 'react';
 
 const Photograph = () => {
   const photos = [
-    { id: 1, src: '/assets/photography/river.jpg', alt: 'Photo 1' },
-    { id: 2, src: '/assets/photography/river.jpg', alt: 'Photo 1' },
+    { id: 1, src: '/assets/photography/sea.jpg', alt: 'Photo 1' },
+    { id: 2, src: '/assets/photography/sea.jpg', alt: 'Photo 1' },
     { id: 3, src: '/assets/photography/sea.jpg', alt: 'Photo 1' },
     { id: 4, src: '/assets/photography/sea.jpg', alt: 'Photo 1' },
     { id: 5, src: '/assets/photography/sea.jpg', alt: 'Photo 1' },
